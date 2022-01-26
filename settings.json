@@ -1,0 +1,54 @@
+{
+  "metaTitle": "Mitchell Jones' links",
+  "metaDescription": "Links to interesting things Andy Piper is doing",
+  "name": "Mitchell Jones' links",
+  "bio": "",
+  "theme": "custom-theme",
+  "avatarImage": "https://secure.gravatar.com/avatar/872414d1add12510143112da7e5e2d91?s=200",
+  "avatarImageAlt": "https://www.gravatar.com/avatar/6aaa5c1546fbb551213db3b3cd533e9f?s=200",
+  "favicon": "https://www.gravatar.com/avatar/6aaa5c1546fbb551213db3b3cd533e9f?s=32",
+  "links": [
+    {
+      "url": "https://mitch3lljones.com",
+      "text": "My Personal Website",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://accounts.meetdapper.com/profile/mitch3lljones",
+      "text": "DapperLabs NFT Inventory",
+      "img": "",
+      "altText": ""
+    }
+  ],
+  "tweets": [
+    {
+      "url": ""
+    }
+  ],
+  "social": {
+    "glitch": "https://glitch.com/@mitch3lljones",
+    "spotify": "",
+    "substack": "",
+    "dev": "https://dev.to/mitch3lljones",
+    "stackoverflow": "https://stackoverflow.com/users/262478/andy-piper",
+    "facebook": "",
+    "github": "https://github.com/mitch3lljones",
+    "gitlab": "",
+    "instagram": "",
+    "linkedin": "www.linkedin.com/in/mitch3lljones",
+    "medium": "",
+    "patreon": "",
+    "kofi": "",
+    "pinterest": "",
+    "twitter": "https://twitter.com/mitch3lljones",
+    "youtube": "",
+    "twitch": "",
+    "tiktok": "",
+    "podcast": "",
+    "soundcloud": "",
+    "bandcamp": "",
+    "mastodon": "",
+    "email": ""
+  }
+}
