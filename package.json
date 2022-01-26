@@ -1,0 +1,42 @@
+{
+  "name": "glitch-in-bio",
+  "version": "0.0.1",
+  "description": "Your very own link-in-bio app.",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "release": "auto shipit"
+  },
+  "devDependencies": {
+    "@auto-it/all-contributors": "^10.32.2",
+    "@auto-it/first-time-contributor": "^10.32.2",
+    "@auto-it/released": "^10.32.2",
+    "auto": "^10.32.2",
+    "vite": "^2.5.0",
+    "@glitchdotcom/vite-plugin-handlebars": "^1.6.2"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead"
+  ],
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/glitch-in-bio"
+  },
+  "glitch": {
+    "projectType": "generated_static"
+  },
+  "author": "Keith Kurson <keith@glitch.com>",
+  "auto": {
+    "plugins": [
+      "all-contributors",
+      "first-time-contributor",
+      "released"
+    ],
+    "onlyPublishWithReleaseLabel": true
+  }
+}
