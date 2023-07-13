@@ -14,7 +14,7 @@
     "@auto-it/first-time-contributor": "^10.37.6",
     "@auto-it/released": "^10.37.6",
     "auto": "^10.37.6",
-    "vite": "^2.9.13",
+    "vite": "^2.9.16",
     "@glitchdotcom/vite-plugin-handlebars": "^1.6.2"
   },
   "browserslist": [
